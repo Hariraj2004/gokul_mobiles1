@@ -7,10 +7,9 @@ const Brands = () => {
     { name: 'Samsung', logo: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg' },
     { name: 'Vivo', logo: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Vivo_mobile_logo.png' },
     { name: 'Oppo', logo: 'https://upload.wikimedia.org/wikipedia/commons/0/08/OPPO_LOGO_2019.svg' },
-    { name: 'OnePlus', logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/OnePlus_logo.svg' },
     { name: 'Redmi', logo: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Redmi_Logo.png' },
     { name: 'Realme', logo: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Realme_logo.png' },
-    { name: 'iQOO', logo: 'https://upload.wikimedia.org/wikipedia/commons/0/00/IQOO_logo.png' },
+    { name: 'Poco', logo: '' },
   ];
 
   return (
